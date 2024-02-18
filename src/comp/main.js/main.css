@@ -1,0 +1,58 @@
+.main_cart{
+    margin-left: 60px;
+    margin-top: -1075px;
+}
+.text{
+    font-size: 50px;
+    width: 228px;
+    height: 84px;
+}
+.text_main{
+    width: 470px;
+    height: 48px;
+}
+.btn{
+    width: 241px;
+height: 52px;
+border-radius: 100px;
+
+background: rgb(31, 77, 54);
+cursor: pointer;
+}
+.btn:hover{
+   
+background: rgb(31, 77, 54);
+color: #fff; 
+}
+
+
+.span{
+    width: 1400px;
+    height: 1269px;
+    background: rgb(31, 77, 54);
+    margin-top: 276px;
+}
+.span_text{
+    position: relative;
+    top: 176px;
+    left: 148px;
+    color: #fff;
+    width: 905px;
+    height: 144px;
+    font-size: 66px;
+}
+.text_span{
+    position: relative;
+    top: 285px;
+    width: 671px;
+    height: 72px;
+    color: rgb(242, 244, 234);
+    font-size: 18px;
+    text-align: center;
+    left: 178px;
+}
+.picture_3{
+    position: relative;
+    top: 1000px;
+    margin-left: 66px;
+}
